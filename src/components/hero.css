@@ -1,0 +1,37 @@
+.Hero {
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+.Hero img {
+  width: 395.91px;
+  height: 232px;
+  margin-top: 26px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Hero h3 {
+  width: 347px;
+  height: 40px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 110%;
+  color: #000000;
+  text-align: left;
+  margin-bottom: 0px;
+  margin-left: 36px;
+}
+.Hero p {
+  width: 320px;
+  height: 56px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 110%;
+  color: #222222;
+  margin-left: 36px;
+}
